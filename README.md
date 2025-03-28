@@ -5,6 +5,13 @@
 ## 📌 Project Overview
 The **Gym Workout Tracker** is a web application designed to help fitness enthusiasts log, track, and analyze their workouts efficiently. The application provides users with a seamless experience for planning exercises, tracking progress, and setting fitness goals.
 
+
+![Screenshot](gymsite1.png)
+--
+![Screenshot](gymsite2.png)
+--
+![Screenshot](gymsite3.png)
+
 ## 🚀 Features
 ### User Features
 - 📝 **Log Workouts**: Add exercises, sets, reps, and weights.
